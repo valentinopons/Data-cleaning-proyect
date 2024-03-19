@@ -1,0 +1,514 @@
+id_sede,nom_seccion
+ECHES,Administración
+ERUNI,Administración
+EHAIT,Administración
+EKENY,Administración
+CNYOR,Administración
+EECUA,Administración  y  Logística
+EJAPO,Administrativa
+ESALV,Administrativa  -  Contable
+EGUAT,Agregada  Administrativa
+EPNMA,Agregada  Administrativa
+ETURQ,Agregada  para  Asuntos  Administrativos
+EPORT,Agregado  Administrativo
+EISIA,Agregado  Administrativo
+ETAIL,Agregado  Administrativo
+CGUAY,AGREGADO  CONSULAR
+EBRAS,Agregado  Militar  y  de  Defensa
+EBRAS,Agregado  Naval
+EBOLV,Agregaduría  Aeronáutica
+EEEUU,Agregaduria  Aeronautica
+EHILE,Agregaduria  Aeronáutica
+EFRUS,Agregaduría  Agrícola
+ECHIN,Agregaduría  Agrícola
+ESURI,Agregaduria  de  Defensa
+EPERU,Agregaduria  de  Defensa  y  Aeronáutica
+EHILE,Agregaduría  de  Defensa  y  Aeronáutica
+EBOLV,Agregaduría  de  Defensa  y  Militar
+EALEM,"Agregaduría  de  Defensa, Militar, Naval  y  Aeronáutica"
+EFRUS,"Agregaduría  de  Defensa, Militar, Naval  y  Aeronáutica"
+ECHIN,"Agregaduría  de  Defensa, Militar, Naval  y  Aeronáutica"
+EISRA,"Agregaduría  de  Defensa, Militar, Naval  y  Aeronáutica"
+EKUWA,"Agregaduría  de  Defensa, Militar, Naval  y  Aeronáutica"
+EMEXI,"Agregaduría  de  Defensa, Militar, Naval  y  Aeronáutica"
+ERUNI,"Agregaduría  de  Defensa, Militar, Naval  y  Aeronáutica"
+ESAFR,"Agregaduría  de  Defensa, Militar, Naval  y  Aeronáutica"
+ECOLO,"Agregaduría  de  Defensa, Militar, Naval  y  Aeronáutica"
+EITAL,"Agregaduría  de  Defensa, Militar, Naval  y  Aeronáutica"
+ERUNI,"Agregaduría  de  Defensa, Militar, Naval  y  Fuerza  Aérea"
+EHILE,Agregaduría  de  Gendarmería  Nacional
+EBOLV,Agregaduría  de  Gendarmería  Nacional  Argentina  (GNA)
+EBOLV,Agregaduría  de  Prefectura  Naval
+EECUA,Agregaduria  Militar
+EEEUU,Agregaduria  Militar
+EEGIP,Agregaduría  Militar
+EHILE,Agregaduria  Militar
+EEEUU,Agregaduria  Naval
+EHILE,Agregaduría  Naval
+EFILI,Ana  Clara  Pianezza  
+EFILI,Andrea  Silvina  Repetti
+CNYOR,Asistencia  a  Argentinos  en  el  Exterior
+CHONG,Asuntos  Consulares
+ETUNE,Asuntos  Culturales  
+ENIGE,Asuntos  Culturales  y  Prensa
+EFRUS,Asuntos  Estratégicos
+EKENY,Asuntos  Multilaterales  (PNUMA-ONU  Hábitat)
+ETRIA,"Asuntos  Nucleares  (OIEA, CTBTO, Zangger  C., NSG)"
+ETRIA,Asuntos  ONUAEE
+ETRIA,Asuntos  ONUDD
+ETRIA,Asuntos  ONUDI
+ECEUR,Cancillería
+CNYOR,Comunidad  argentina  y  diplomacia  pública
+ECEUR,Consejería  Agrícola
+EEEUU,Consejería  Agrícola
+EBRAS,Consejería  Agrícola
+CPCAR,Cónsul  Adjunto
+CMIAM,Cónsul  General  Adjunto
+EKENY,Consular  
+CGUAY,CONSULAR
+EBOLV,Contabilidad  y  Administración.
+EJAPO,Cooperación
+EHAIT,Cooperación  Internacional
+ETUNE,Cooperación  Internacional
+EKENY,Cultural
+ESALV,Cultural
+EKENY,Económica  -  Comercial
+ERUNI,Económica  y  Comercial
+EBOLV,Embajador  Extraordinario  y  Plenipotenciario  de  la  República  Argentina  
+ESSED,Embajadora
+ESSED,Jefa  de  Cancillería
+EALEM,Jefa  de  Cancillería
+ESSED,Jefa  de  Sección  Secretaría  y  Despacho
+ESUIZ,Jefe  de  Cancillería
+ECANA,Jefe  de  Cancillería
+EBELG,Jefe  de  Cancillería
+ETUNE,Jefe  de  Cancillería
+EINDI,Jefe  de  Cancilleria
+EFRAN,Jefe  de  Cancillería
+EQATR,Jefe  de  Cancillería
+EFRUS,Jefe  de  Cancillería
+EEEUU,Jefe  de  Cancillería
+EPORT,JEFE  DE  CANCILLERIA
+ETAIL,Jefe  de  Cancillería
+EUNGR,Jefe  de  Cancillería
+EMOZA,Jefe  de  Cancillería
+ECHIN,Jefe  de  Cancilleria
+ENIGE,Jefe  de  Cancillería
+EURUG,Jefe  de  Cancillería
+EPNMA,Jefe  de  Cancillería
+EITAL,Jefe  de  Cancillería
+ECOLO,Jefe  de  Cancillería
+EHILE,Jefe  de  Cancillería
+EBRAS,Jefe  de  Cancillería
+EPERU,Jefe  de  Cancillería
+EBARB,Jefe  de  Cancillería
+EMEXI,Jefe  de  Misión
+EESPA,Jefe  de  Misión  Adjunto
+EPORT,JEFE  DE  SECCIÓN  CONSULAR
+EPORT,JEFE  DE  SECCIÓN  CULTURAL
+EPORT,JEFE  DE  SECCIÓN  ECONÓMICA  Y  COMERCIAL
+EFILI,Josefina  Marcela  Gallo  Morando
+EFILI,Mauricio  Germán  Muñoz
+EBOLV,Misión  Naval  Argentina
+EBOLV,"Mujeres, Género, Diversidad  y  Medio  Ambiente"
+EMEXI,Negociaciones  Económicas  Bilaterales
+DITIC,nueva
+EITAL,"Oficina  de  Derechos  Humanos, Géneros  y  Diversidad"
+EFRAN,Oficina  Turismo
+EJAPO,Política
+EKENY,Política  y  Cooperación    
+ESALV,Prensa
+EEEUU,Prensa
+ETUNE,Prensa
+CNYOR,Promoción  Cultural
+ERUNI,Protocolo
+EPBAJ,Rep.  Permanente  OPAQ
+EESPA,Representante  Ministerio  de  Desarrollo  Productivo
+EHILE,Residencia  Oficial
+ETRIN,Sección
+EALEM,Sección  Administración
+EDOMI,Sección  Administración
+CMIAM,Sección  Administración
+ESSED,"Sección  Administración, Economato, Contabilidad  e  Inventario"
+EBARB,Sección  Administrativa
+EKUWA,Sección  Administrativa
+ECANA,Sección  Administrativa
+ESING,Sección  Administrativa
+EMARR,Sección  Administrativa
+CGTEL,Sección  Administrativa
+CBARC,Sección  Administrativa
+EFRAN,Sección  Administrativa
+EITAL,Sección  Administrativa
+CSCRS,Sección  Administrativa
+ECHIN,Sección  Administrativa
+EEGIP,Sección  Administrativa
+CFRAN,Sección  Administrativa
+EVENE,Sección  Administrativa
+EDINA,Sección  Administrativa
+EUNGR,Sección  Administrativa
+EARME,Sección  Administrativa
+EANGO,Sección  Administrativa
+ESAFR,Sección  Administrativa
+EHOND,Sección  administrativa
+EPERU,Sección  Administrativa
+EAUST,Sección  Administrativa
+EARGE,Sección  Administrativa
+ECUBA,Sección  Administrativa
+EGREC,Sección  Administrativa
+CSIDN,Sección  Administrativa
+EQATR,Seccion  Administrativa
+ECOLO,Sección  Administrativa
+EHILE,Sección  Administrativa
+ENIGE,Sección  Administrativa
+ESURI,Sección  Administrativa
+ECEUR,Sección  Administrativa
+ESERB,Sección  Administrativa
+CMILA,Sección  Administrativa  -  Titular:  
+ELBNO,Sección  Administrativa  Contable
+CRECI,Sección  Administrativa  y  Contable
+EFRUS,Sección  Administrativa  y  Logística
+EEEUU,Sección  Administrativa  y  Recursos  Humanos
+EESPA,Sección  Administrativa  y  Recursos  Humanos
+EMEXI,Sección  Administrativa  y  Recursos  Humanos  
+EINDI,Sección  Agrícola
+ETRIA,Sección  Bilateral
+EAUST,Sección  Ciencia  y  Tecnología
+EMEXI,Sección  Comercial
+EEGIP,Sección  Comercial
+EDINA,Sección  Comercial
+EURUG,Sección  Comercial
+EQATR,Sección  Comercial
+CURUG,Sección  Comercial
+EPOLO,Sección  Comercial
+EHOND,Sección  Comercial
+ETRIA,Sección  Comercial
+ESALV,Sección  Comercial  e  Inversiones
+CMIAM,Sección  Comercial  e  Inversiones
+CSIDN,Sección  Comercial  y  Cultural
+EFINL,Sección  Comercial  y  de  Inversiones
+CBARC,"Sección  Comercial, Turismo  e  Inversiones"
+EAUST,Sección  Comercio  e  Inversiones
+EFRUS,Sección  Concurrencias
+EBARB,Sección  Consular
+CGMUM,Sección  Consular
+CRIOJ,Sección  Consular
+ESING,Sección  Consular
+EETIO,Sección  Consular
+EALEM,Sección  Consular
+CGTEL,Sección  Consular
+ENORU,Sección  Consular
+EBRAS,Sección  Consular
+ECORE,Sección  Consular
+EFRUS,Sección  Consular
+EARGE,Sección  Consular
+ECOLO,Sección  Consular
+EJAMA,Sección  Consular  
+EECUA,Sección  Consular
+EVIET,Sección  Consular
+EARME,Sección  Consular
+EDOMI,Sección  Consular
+ENZEL,Sección  Consular
+EKUWA,Sección  Consular
+ERUMA,Sección  Consular
+EASIR,Sección  Consular
+ETUNE,Sección  Consular
+EEEUU,Sección  Consular
+EIRLA,Sección  Consular
+EGREC,Sección  Consular
+EQATR,Sección  Consular
+EVENE,Sección  Consular
+EEGIP,Sección  Consular
+EFINL,Sección  Consular
+EHAIT,Sección  Consular
+EDINA,Sección  Consular
+CNYOR,Sección  Consular
+ESERB,Sección  Consular
+EANGO,Sección  Consular
+ECHES,Sección  Consular
+ETURQ,Sección  Consular
+CCHIC,Sección  Consular
+EPAKI,Sección  Consular
+CSCRS,Sección  Consular
+EBELG,Sección  Consular
+EEARB,Sección  Consular
+CVIGO,Sección  Consular
+ESUEC,Sección  Consular
+EPBAJ,Sección  Consular
+CSIDN,Sección  Consular
+CFRAN,Sección  Consular
+EMSIA,Sección  Consular
+EPNMA,Sección  Consular
+EUNGR,Sección  Consular
+CTORO,SECCION  CONSULAR
+EISIA,Sección  Consular
+ESURI,Sección  Consular
+EHOND,Sección  Consular
+EFRAN,Sección  Consular
+EIRAN,Sección  Consular
+EGUAT,Sección  Consular
+CSHAN,Sección  Consular
+EJAPO,Sección  Consular
+EUCRA,Sección  Consular
+ERICA,Sección  Consular
+CRECI,Sección  Consular
+EMOZA,Sección  Consular
+CPABL,Sección  Consular
+ETAIL,Sección  Consular
+ETRIA,Sección  Consular
+ESALV,Sección  Consular  
+ESUIZ,Sección  Consular
+EAZER,Sección  Consular
+ELBIA,Sección  Consular
+ELBNO,Sección  Consular
+EMARR,Sección  Consular
+ENICA,SECCION  CONSULAR
+ECUBA,Sección  Consular
+CMILA,Sección  Consular  -  Cónsul  Adjunto  Agustín  Busignani  
+CBARC,Sección  Consular  (Asistencia  al  ciudadano/Visas)
+CMIAM,Sección  Consular  (Documentación)
+CBARC,Sección  Consular  (Documentación/Asuntos  previsionales)
+ECHIN,Sección  Consular  (Ir  a  Consulados)
+CMIAM,Sección  Consular  (Notariales)
+CBARC,Sección  Consular  (Opción  de  Nacionalidad/Notariales/Itinerancias)
+CMIAM,Sección  Consular  (Trámites  generales)
+CMIAM,Sección  Consular  (Visas  y  Asistencia  a  Argentinos)
+EPOLO,Sección  Consular  de  la  Embajada  de  la  República  Argentina  en  la  República  de  Polonia
+ENIGE,Sección  Consular  Embajada  Argentina  en  Nigeria
+CMILA,Sección  Consular:  Cónsul  Adjunto  Lara  Fazzolari
+EANGO,Sección  Cooperación
+ECUBA,Sección  Cooperación
+EBARB,Sección  Cooperación  Internacional
+EFRAN,Sección  Cooperación  Internacional
+EALEM,Sección  Cooperación  Internacional
+ESSED,Sección  Cultura
+EESPA,"Sección  Cultura, Educación  y  Protocolo"
+CBARC,"Sección  Cultura, Educación  y  Redes  Sociales"
+CTORO,SECCION  CULTURAL
+CSCRS,Seccion  Cultural
+EMEXI,Sección  Cultural
+ECANA,Sección  Cultural
+CRIOJ,Sección  Cultural
+EALEM,Sección  Cultural
+EETIO,Sección  Cultural
+ENORU,Sección  Cultural
+EECUA,Sección  Cultural
+EAUST,Seccion  Cultural
+EARGE,Sección  Cultural
+EISIA,Sección  Cultural
+EKUWA,Sección  Cultural
+EIRLA,Sección  Cultural
+EVENE,Sección  Cultural
+EEGIP,Sección  Cultural
+EDINA,Sección  Cultural
+EUNGR,Sección  Cultural
+EHAIT,Sección  Cultural
+EMOZA,Sección  Cultural
+ECHES,Sección  Cultural
+EURUG,Sección  Cultural
+ETURQ,Sección  Cultural
+ECUBA,Sección  Cultural
+EJAMA,Sección  Cultural
+CVIGO,Sección  Cultural
+CFRAN,Sección  Cultural
+CRECI,Sección  Cultural  
+EJAPO,Sección  Cultural  
+ERUNI,Sección  Cultural
+CMIAM,Sección  Cultural
+ELBNO,Sección  Cultural
+EBRAS,Sección  Cultural
+EPOLO,Sección  Cultural
+EHILE,Sección  Cultural
+CSHAN,Sección  Cultural  
+EGREC,Sección  Cultural
+EBELG,Sección  Cultural
+ESURI,Sección  Cultural
+EFRAN,Sección  Cultural
+ETRIA,Sección  Cultural
+ESUIZ,Sección  Cultural
+EAZER,Sección  Cultural
+ETAIL,Sección  Cultural
+EMARR,Sección  Cultural
+EUCRA,Sección  Cultural
+EEEUU,Sección  Cultural  y  de  Diplomacia  Pública
+ESUEC,Sección  Cultural  y  de  Prensa
+EBARB,Sección  Cultural  y  Prensa
+EANGO,Sección  Cultural  y  Prensa
+EPERU,"Sección  Cultural, Educación  y  Prensa"
+ECORE,"Sección  Cultural, Educación  y  Turismo"
+ESERB,"Sección  Cultural, Educación  y  Turismo"
+EITAL,"Sección  Cultural, Educación, Ciencia  y  Tecnología  "
+ECOLO,"Sección  Cultural, Educativa  y  Cooperación  Judicial"
+ESAFR,"Sección  Cultural, Prensa  y  Diplomacia  Pública"
+EBOLV,"Sección  Cultural, Prensa, Educación, Derechos  Humanos  y  de  Cooperación  Técnica"
+ETRIA,Sección  de  Administración
+CGMUM,Sección  de  Administración
+ECORE,Sección  de  Administración  
+EAZER,Sección  de  Administración
+EMOZA,Sección  de  Administración  y  Finanzas
+EITAL,Sección  de  Cooperación  Internacional
+EMOZA,Sección  de  Cooperación  Internacional  y  Ayuda  Humanitaria
+EPERU,Sección  de  Cooperación  Judicial  y  Asuntos  de  Género
+ETRIA,Sección  de  Cooperación  Jurídica
+EFRUS,"Sección  de  Cultura, Turismo  y  Cooperación  Deportiva"
+ETRIA,Sección  de  DDHH  y  Género
+EITAL,"Sección  de  Diplomacia  Pública, Comunicación  y  Prensa"
+EALEM,Sección  de  Prensa
+EHAIT,Sección  de  Prensa
+EMEXI,Sección  de  Prensa
+EMOZA,Sección  de  Prensa  y  Difusión
+EFRUS,Sección  de  Prensa  y  Difusión
+EITAL,Sección  de  Promoción  Comercial  y  Turismo
+CSHAN,Sección  Deportiva
+EPAKI,Sección  Económica
+EJAPO,Sección  Económica  -  Comercial  
+EESPA,Sección  Económica  -  Comercial
+ELBNO,Sección  Económica  -  Comercial  e  Inversiones
+ELBIA,Sección  Económica  Comercial
+EIRLA,Sección  Económica  y    Comercial
+ESERB,Sección  Económica  y  Comercial
+EBARB,Sección  Económica  y  Comercial
+ECEUR,Sección  Económica  y  Comercial
+CGMUM,Sección  Económica  y  Comercial
+EGREC,Sección  Económica  y  Comercial
+CRIOJ,Sección  Económica  y  Comercial
+EETIO,Sección  Económica  y  Comercial
+EALEM,Sección  Económica  y  Comercial
+ECHIN,Sección  Económica  y  Comercial
+ENORU,Sección  Económica  y  Comercial
+ECORE,Sección  Económica  y  Comercial
+EFRUS,Sección  Económica  y  Comercial
+EARGE,Sección  Económica  y  Comercial
+EECUA,Sección  Económica  y  Comercial
+EDOMI,Sección  Económica  y  Comercial
+CSCRS,Sección  Económica  y  Comercial
+ERUMA,Sección  Económica  y  Comercial
+EMARR,Sección  Económica  y  Comercial
+EEEUU,Sección  Económica  y  Comercial
+EKUWA,Sección  Económica  y  Comercial
+EVENE,Sección  Económica  y  Comercial
+EARME,Sección  Económica  y  Comercial
+ENZEL,Sección  Económica  y  Comercial
+EHAIT,Sección  Económica  y  Comercial
+CNYOR,Sección  Económica  y  Comercial
+EANGO,Sección  Económica  y  Comercial
+ECHES,Sección  Económica  y  Comercial
+ETURQ,Sección  Económica  y  Comercial
+CCHIC,Sección  Económica  y  Comercial
+ENIGE,Sección  Económica  y  Comercial
+EBELG,Sección  Económica  y  Comercial
+EPERU,Sección  Económica  y  Comercial  
+EJAMA,Sección  Económica  y  Comercial
+ESAFR,Sección  Económica  y  Comercial
+CVIGO,Sección  Económica  y  Comercial
+EINDI,Sección  Económica  y  Comercial
+CFRAN,Sección  Económica  y  Comercial
+CRECI,Sección  Económica  y  Comercial
+ECUBA,Sección  Económica  y  Comercial
+ETUNE,Sección  Económica  y  Comercial
+EMSIA,Sección  Económica  y  Comercial
+CTORO,SECCION  ECONOMICA  Y  COMERCIAL
+EISIA,Sección  Económica  y  Comercial
+CSHAN,Sección  Económica  y  Comercial
+EHILE,Sección  Económica  y  Comercial
+EGUAT,Sección  Económica  y  Comercial
+ERICA,Sección  Económica  y  Comercial
+ESURI,Sección  Económica  y  Comercial
+EAZER,Sección  Económica  y  Comercial
+ETAIL,Sección  Económica  y  Comercial
+EPNMA,Sección  Económica  y  Comercial
+,Sección  Económica  y  Comercial
+EUCRA,Sección  Económica  y  Comercial
+EMOZA,Sección  Económica  y  Comercial  
+EPBAJ,"Sección  Económica  y  Comercial, Prensa  y  Turismo."
+EITAL,Sección  Económica  y  Promoción  de  Inversiones
+CHONG,Sección  Económica-Comercial
+ECANA,"Sección  Económica-Comercial, Cooperación  e  Innovación"
+ESING,"Sección  Económica, Comercial  y  de  Inversiones"
+EVIET,"Sección  Económica, Comercial  y  de  Inversiones"
+ESUIZ,"Sección  Económica, Comercial  y  de  Inversiones"
+EEARB,"Sección  Económica, Comercial  y  de  Inversiones  /  Oficina  Comercial  en  Dubai"
+ESUEC,"Sección  Económica, Comercial  y  de  Promoción  de  Inversiones"
+ERUNI,"Sección  Económica, Comercial  y  Turismo"
+ECOLO,"Sección  Económica, Comercial  y  Turismo"
+EBOLV,"Sección  Económica, Comercial, de  Inversiones  y  Turismo."
+EFRAN,"Sección  Económica, Comercial, Promoción  e  Inversiones"
+EISRA,Sección  Económico-Comercial  y  de  Cooperación
+EBRAS,"Sección  Económico-Comercial, Inversiones  y  Turismo"
+EECUA,Sección  Educación  y  Cooperación
+CSHAN,Sección  Educativa
+EHOND,Sección  Encargado  Cancillería
+EFRUS,"Sección  Energía, Ciencia  y  Tecnología"
+ECHIN,Sección  Inversiones
+EHILE,Sección  Jurídica
+EFRUS,Sección  Malvinas  Antártida  y  Atlántico  Sur
+CNYOR,Sección  Notarial
+EFRAN,Sección  Organismos  Internacionales  Económicos
+EPERU,Sección  Política  
+EETIO,Sección  Política
+EALEM,Sección  Política
+ECHES,Sección  Política  
+ECHIN,Sección  Política
+ESUIZ,Sección  Política
+EARGE,Sección  Política
+EMSIA,Sección  Política
+EECUA,Sección  Política
+EAUST,Sección  Política
+EEARB,Sección  Política
+ECORE,Sección  Política
+EEEUU,Sección  Política
+EVENE,Sección  Política
+EEGIP,Sección  Política
+EUNGR,Sección  Política
+EHAIT,Sección  Política
+ELBNO,Sección  Política
+EANGO,Sección  Política
+EMEXI,Sección  Política
+ENIGE,Sección  Política
+EQATR,Sección  Política
+EMARR,Sección  Política
+EURUG,Sección  Política
+EFRUS,Sección  Política
+EIRLA,Sección  Política
+EISIA,Sección  Política
+ETUNE,Sección  Política
+ECEUR,Sección  Política
+EHILE,Sección  Política
+ETAIL,Sección  Política
+ESURI,Sección  Política
+EITAL,Sección  Política
+EAZER,Sección  Política
+EUCRA,Sección  Política
+EINDI,Sección  Política
+EBELG,Sección  Política
+EMOZA,Sección  Política
+ERUNI,Seccion  Politica
+ENZEL,Sección  Política
+ESUEC,Sección  Política
+EBARB,Sección  Política
+EVIET,Sección  Política  y  Cooperación
+EESPA,Sección  Política  y  Cooperación  Jurídica
+ERUNI,Sección  Política  y  Coordinación
+ESING,Sección  Política  y  Cultural
+EISRA,Sección  Política  y  Cultural
+EFRAN,"Sección  Política, Asuntos  Juridicos  y  Derechos  Humanos"
+EBOLV,"Sección  Política, Fronteras, Defensa  y  Seguridad"
+EESPA,"Sección  Política, Prensa  y  Comunicación"
+ECOLO,"Sección  Política, Tecnología  y  Ciencia"
+EPBAJ,Sección  Política/Jurídica  
+CSHAN,Sección  Prensa
+ERUNI,Seccion  Prensa
+EECUA,Sección  Prensa
+EARGE,Sección  Prensa
+CRECI,Sección  Prensa
+EHILE,Sección  Prensa
+EVIET,Sección  Prensa  y  Cultura
+ECEUR,Sección  Prensa  y  Diplomacia  Pública
+ESSED,"Sección  Prensa, Redes  Sociales  y  Comunicación"
+DITIC,Sección  prueba
+CSHAN,Sección  Turismo
+EALEM,Sección  Turismo
+CRIOJ,Sección  Turismo
+EMEXI,"Secciones  Cooperación, Educación, Turismo  y  Belice"
+EHILE,Secretaría  Privada
+CNYOR,Turismo
+CNYOR,Visas
